@@ -7,6 +7,7 @@ Este é um repositório utilizando a ferramenta Cypress, com o intuito de valida
 # Como executar?
 Clone este repositório
 Instale as dependencias utilizando: npm i
-Rode o teste utilizando: 
+
+#Rode o teste utilizando: 
 - npm run cy:open ( modo interativo )
 - npm run test ( modo headless )
